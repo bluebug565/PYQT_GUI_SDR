@@ -1,0 +1,1 @@
+python Gui for a software defining radio SDR, the backend runs on unbutu system  
